@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://android.git.kernel.org/" name="korg" review="review.source.android.com"/>
+  <remote fetch="https://android.googlesource.com/" name="korg" review="review.source.android.com"/>
   
   <default remote="korg" revision="cupcake-release"/>
   
